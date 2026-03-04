@@ -1,0 +1,21 @@
+<!DOCTYPE html> 
+<html lang="es"> 
+<head> <meta charset="UTF-8" /> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Curso Gratuito de Inteligencia Artificial</title> </head> 
+<body> 
+  <h1>Curso de Inteligencia Artificial</h1> 
+      <h2>Módulo 1: Introducción a la IA</h2> 
+      <ul> <li><a href="link_a_presentacion">Presentación</a></li> 
+      <li><a href="link_a_documento">Lectura: Qué es la IA</a></li> 
+      </ul> 
+      <h2>Módulo 2: Aprendizaje Automático</h2> 
+      <ul> <li><a href="link_a_tutorial">Tutorial de Scikit-Learn</a></li>
+      <li><a href="link_a_ejercicio">Ejercicio práctico</a></li> 
+      </ul> 
+  <h2>Módulo 3: Redes Neuronales</h2> 
+      <ul> <li><a href="link_a_video">Video: Introducción a las Redes Neuronales</a></li> 
+      <li><a href="link_a_proyecto">Proyecto Final</a></li> 
+      </ul> 
+</body> 
+</html>
